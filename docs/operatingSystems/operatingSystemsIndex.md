@@ -1,5 +1,5 @@
 ## Operating Systems
-[ <-Back]
+[<-Back](../../index.md)
 
 On this page, the subject that will be addressed is Operating Systems, structured by topics.
 
@@ -9,4 +9,3 @@ On this page, the subject that will be addressed is Operating Systems, structure
 
 
 
-[Back]: ./ 
