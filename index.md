@@ -12,7 +12,7 @@ In this page I post about my journey in tech, separated by topics, like a huge b
 
 [Operation Systems]
 
-[Programming](prog/prog.md)
+[Programming](./prog/prog.md)
 
 [algorithms]: algo.md
 [computer architecture]: comparc.md
