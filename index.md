@@ -2,21 +2,16 @@
 
 In this page I post about my journey in tech, separated by topics, like a huge bullet journal, telling my whole history, from the zero to now.
 
-[Algorithms]
+[Algorithms](./docs/algorithms/algorithmsIndex.md)
 
-[Computer Architecture]
+[Computer Architecture](./docs/computerArchitecture/computerArchitectureIndex.md)
 
 [Databases]
 
-[Information Systems]
+[Information Systems](./)
 
-[Operation Systems]
+[Operation Systems](./docs/operatingSystems/operatingSystemsIndex.md)
 
-[Programming](./prog/prog.md)
+[Programming](./docs/programming/programmingIndex.md)
 
-[algorithms]: algo.md
-[computer architecture]: comparc.md
-[databases]: db.md
-[information systems]: sysinfo.md
-[operation systems]: so.md
 
