@@ -6,12 +6,10 @@ In this page I post about my journey in tech, separated by topics, like a huge b
 
 [Computer Architecture](./docs/computerArchitecture/computerArchitectureIndex.md)
 
-[Databases]
+[Databases](./docs/databases/databasesIndex.md)
 
-[Information Systems](./)
+[Information Systems](./docs/informationSystems/informationSystemsIndex.md)
 
 [Operation Systems](./docs/operatingSystems/operatingSystemsIndex.md)
 
 [Programming](./docs/programming/programmingIndex.md)
-
-
