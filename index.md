@@ -16,3 +16,5 @@ In this page I post about my journey in tech, separated by topics, like a huge b
 
 - [Programming](./docs/programming/programmingIndex.md)
   - [Web Development](./docs/programming/programmingIndex.md/#web-development)
+
+{% email %}
