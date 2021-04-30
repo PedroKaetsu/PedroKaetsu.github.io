@@ -4,9 +4,9 @@
 
 O desenvolvimento web encarou desde com o passar do tempo diversas evolucoes, o que e de fato muito comum com qualquer vertente da tecnologia, passando por diversos paradigmas, linguagens e praticas mais comuns em mercado.
 
-### Client - Server Model
+### Client / Server Model
 
-O modelo cliente e servidor e
+O modelo cliente e servidor pode ser entendido como um modelo para software, onde um servico eh prestado ao seu client, o mesmo computador pode agir ao mesmo tempo com client e server, ja que essa situacao nao diz respeito a maquina, mas sim ao comportamento de a specific software.
 
 ### Paradigms
 
