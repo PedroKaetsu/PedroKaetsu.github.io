@@ -18,7 +18,7 @@ O modelo cliente e servidor pode ser entendido como um modelo para software, ond
 
 Um dos primeiros paradigmas do desenvolvimento web, onde as paginas eram totalmente estaticas, como o proprio nome ja diz, sendo que qualquer alteracao no site, demandaria a alteracao do "source-code" do mesmo, por assim dizer.
 
-![Static Pages Visualization](../../images/staticpages.png "Static Pages Visualizatio")
+![Static Pages Visualization](../../images/staticpages.png "Static Pages Visualization")
 
 #### Dynamic Pages
 
