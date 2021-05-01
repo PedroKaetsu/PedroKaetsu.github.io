@@ -11,7 +11,10 @@ O desenvolvimento web encarou desde com o passar do tempo diversas evolucoes, o 
 ### Table of Contents
 
 - [Client and Server Model](#client-/-server-model)
-- [Paradigms](#paradigms) -[Static Web Sites](#static-pages) -[Dinamyc Web Sites](#dynamic-pages) -[Full Stack Web Sites](#full-stack)
+- [Paradigms](#paradigms)
+  - [Static Web Sites](#static-pages)
+  - [Dinamyc Web Sites](#dynamic-pages)
+  - [Full Stack Web Sites](#full-stack)
 - [Front End](#front-end)
 - [Back End](#back-end)
 
