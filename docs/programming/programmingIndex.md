@@ -8,6 +8,13 @@
 
 O desenvolvimento web encarou desde com o passar do tempo diversas evolucoes, o que e de fato muito comum com qualquer vertente da tecnologia, passando por diversos paradigmas, linguagens e praticas mais comuns em mercado.
 
+### Table of Contents
+
+- [Client and Server Model](#client-/-server-model)
+- [Paradigms](#paradigms) -[Static Web Sites](#static-pages) -[Dinamyc Web Sites](#dynamic-pages) -[Full Stack Web Sites](#full-stack)
+- [Front End](#front-end)
+- [Back End](#back-end)
+
 ### Client / Server Model
 
 O modelo cliente e servidor pode ser entendido como um modelo para software, onde um servico eh prestado ao seu client, o mesmo computador pode agir ao mesmo tempo com client e server, ja que essa situacao nao diz respeito a maquina, mas sim ao comportamento de a specific software.
@@ -16,13 +23,13 @@ O modelo cliente e servidor pode ser entendido como um modelo para software, ond
 
 #### Static Pages
 
-->Um dos primeiros paradigmas do desenvolvimento web, onde as paginas eram totalmente estaticas, como o proprio nome ja diz, sendo que qualquer alteracao no site, demandaria a alteracao do "source-code" do mesmo, por assim dizer.
+Um dos primeiros paradigmas do desenvolvimento web, onde as paginas eram totalmente estaticas, como o proprio nome ja diz, sendo que qualquer alteracao no site, demandaria a alteracao do "source-code" do mesmo, por assim dizer.
 
 ![Static Pages Visualization](../../images/staticpages.png "Static Pages Visualization")
 
 #### Dynamic Pages
 
-->Uma evolucao de paradigma foi a geracao dinamica de paginas, onde nao mais se faz necessario ficar alterando o "source-code" para cada nova informacao que queremos alterar ou ate mesmo remover, agora esses arquivos sao gerados por um codigo rodando no server, quando o client send a request to the server.
+Uma evolucao de paradigma foi a geracao dinamica de paginas, onde nao mais se faz necessario ficar alterando o "source-code" para cada nova informacao que queremos alterar ou ate mesmo remover, agora esses arquivos sao gerados por um codigo rodando no server, quando o client send a request to the server.
 
 ![Dynamic Pages Visualization](../../images/dynamicpages1.png "Dynamic Pages Visualization")
 
@@ -33,3 +40,7 @@ Muitos formatos para esses arquivos estruturados enviados ao client foram utiliz
 ![Dynamic Pages Visualization](../../images/dynamicpages2.png "Dynamic Pages Visualization")
 
 #### Full Stack
+
+### Front End
+
+### Back End
