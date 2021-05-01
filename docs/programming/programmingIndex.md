@@ -16,13 +16,13 @@ O modelo cliente e servidor pode ser entendido como um modelo para software, ond
 
 #### Static Pages
 
-Um dos primeiros paradigmas do desenvolvimento web, onde as paginas eram totalmente estaticas, como o proprio nome ja diz, sendo que qualquer alteracao no site, demandaria a alteracao do "source-code" do mesmo, por assim dizer.
+->Um dos primeiros paradigmas do desenvolvimento web, onde as paginas eram totalmente estaticas, como o proprio nome ja diz, sendo que qualquer alteracao no site, demandaria a alteracao do "source-code" do mesmo, por assim dizer.
 
 ![Static Pages Visualization](../../images/staticpages.png "Static Pages Visualization")
 
 #### Dynamic Pages
 
-Uma evolucao de paradigma foi a geracao dinamica de paginas, onde nao mais se faz necessario ficar alterando o "source-code" para cada nova informacao que queremos alterar ou ate mesmo remover, agora esses arquivos sao gerados por um codigo rodando no server, quando o client send a request to the server.
+->Uma evolucao de paradigma foi a geracao dinamica de paginas, onde nao mais se faz necessario ficar alterando o "source-code" para cada nova informacao que queremos alterar ou ate mesmo remover, agora esses arquivos sao gerados por um codigo rodando no server, quando o client send a request to the server.
 
 ![Dynamic Pages Visualization](../../images/dynamicpages1.png "Dynamic Pages Visualization")
 
