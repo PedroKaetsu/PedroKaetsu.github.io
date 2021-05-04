@@ -2,6 +2,7 @@
 title: "A Journey in Tech - Pedro Kaetsu"
 email: "phksardeto@gmail.com"
 url: https://pedrokaetsu.github.io
+baseurl: /
 description: "Personal Site"
 github_username: "PedroKaetsu"
 markdown: GFM
