@@ -2,9 +2,9 @@
 
 ### Programming
 
-    - [ ] Non-Relational Database -> Database Section
-    - [ ] Client and Server -> Networking Section
-    - [ ] JIT -> Programming Section
+- [ ] Non-Relational Database -> Database Section
+- [ ] Client and Server -> Networking Section
+- [ ] JIT -> Programming Section
 
 # TODO - MAPEADOS
 
@@ -64,6 +64,8 @@
     - [ ] Python
     - ##### Drive Content - /CONHECIMENTOS
       - [ ] Javascript Cheatsheet
+  - #### Test Automation
+    - [ ] https://www.youtube.com/watch?v=Fh3cy7Cmvls
   - #### WebDev
     - [x] Full Stack
     - [ ] Front End
